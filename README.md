@@ -1,64 +1,37 @@
-# Developing a Neural Network Classification Model
-
-## AIM
-
+# EX-01 Developing a Neural Network Classification Model
+### Aim:
 To develop a neural network classification model for the given dataset.
-
-## Problem Statement
-
+### Problem Statement:
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
-
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy for the new markets.
-
 You are required to help the manager to predict the right group of the new customers.
-
-## Neural Network Model
+### Neural Network Model:
 
 Include the neural network model diagram.
 
-## DESIGN STEPS
+### Design Steps:
 
-### STEP 1:
-Write your own steps
-
-### STEP 2:
-
-### STEP 3:
-
-
-## PROGRAM
-
-### Name: 
-### Register Number:
-
-```python
-import pandas as pd
-
-
-
+- STEP 1: Import the packages and reading the dataset.
+- STEP 2: Preprocessing and spliting the data.
+- STEP 3: Creating a Deep Learning model with appropriate layers of depth.
+- STEP 4: Plotting Training Loss, Validation Loss Vs Iteration Plot.
+- STEP 5: Predicting the with Sample values.
+### Program:
+```Python
 
 ```
+### Output:
+##### Dataset Information:
 
-## Dataset Information
+##### Training Loss, Validation Loss Vs Iteration Plot:
 
-Include screenshot of the dataset
+##### Classification Report:
 
-## OUTPUT
-### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
+##### Confusion Matrix:
 
-### Classification Report
-
-Include Classification Report here
-
-### Confusion Matrix
-
-Include confusion matrix here
-
-
-### New Sample Data Prediction
+##### New Sample Data Prediction
 
 Include your sample input and output here
 
-## RESULT
-Include your result here
+### Result:
+A neural network classification model is developed for the given dataset.
